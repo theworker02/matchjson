@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/matchjson",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Match color json values and contrast-safe presentation helpers.",
+  "bin": {
+    "matchjson": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/matchjson.git"
+  },
+  "homepage": "https://theworker02.github.io/matchjson/",
+  "keywords": [
+    "match",
+    "json",
+    "color",
+    "cli",
+    "toolkit"
+  ]
+}
